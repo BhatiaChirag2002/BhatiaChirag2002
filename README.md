@@ -13,8 +13,6 @@
   <br>
   <li style="font-size: 16px;">🌱 I’m currently learning <b>Android using Kotlin</b></li>
   <br>
-  <li style="font-size: 16px;">💬 Ask me about <b>Flutter</b></li>
-  <br>
   <li style="font-size: 16px;">📫 How to reach me <b>bhatiachirag2002@gmail.com</b></li>
 </ul>
 
